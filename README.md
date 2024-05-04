@@ -26,4 +26,12 @@
   Read Sample Data File: Implement reading and processing sample data from the given file using the data structure(s).
   Implement Menu: Develop an intuitive command-line user interface.
   Write Report: Document time complexity analysis and test cases in the report.
-
+  
+#  How to use it 
+- download the folder
+- open it on your favourite editor/command line 
+- to execute the program navigate to Bin
+- run this command: ./myprogram
+  
+# feature
+ 
