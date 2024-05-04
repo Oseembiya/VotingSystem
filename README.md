@@ -15,7 +15,9 @@
 - Scenario:
   
   The program must use an appropriate data structure to store voting data and allow the user to specify the input file name. The focus is on library and search functionality.
+  
 - Detailed Description:
+  
   Set up Project: Create an Azure DevOps git repository and makefile for the project.
   Plan Software: Design and implement a class to store the necessary data details.
   Design Data Structure/Algorithm: Design data structure(s) and associated algorithms for storing and searching data. Analyze time complexity and justify the selection.
