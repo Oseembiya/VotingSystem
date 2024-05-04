@@ -1,0 +1,15 @@
+ID,Name,Email,Phone,Address,Date_of_Birth,Eligibility,Registration_Date,Voting_Status
+1,Emily Davis,emily.davis@example.com,555-123-4567,123 Main St,05/05/1990,Eligible,01/01/2023,Not Voted
+2,Michael Johnson,michael.johnson@example.com,555-987-6543,456 Elm St,09/12/1985,Eligible,2/15/2023,Not Voted
+3,Jane Smith,jane.smith@example.com,555-246-8135,789 Oak Ave,12/03/1998,Ineligible,03/10/2023,Not Voted
+4,David Wilson,david.wilson@example.com,555-135-7924,321 Pine Rd,08/05/1992,Eligible,1/20/2023,Not Voted
+5,John Doe,john.doe@example.com,555-864-2097,654 Maple Ln,03/12/1988,Eligible,2/28/2023,Not Voted
+7,Robert Anderson,robert.anderson@example.com,555-357-1596,741 Birch Ct,06/11/1982,Eligible,1/15/2023,Not Voted
+9,Christopher Martinez,christopher.martinez@example.com,555-951-7532,369 Spruce Ave,09/02/1991,Eligible,3/20/2023,Not Voted
+10,Amanda Taylor,amanda.taylor@example.com,555-482-6031,159 Oak Ln,02/09/1997,Eligible,1/25/2023,Not Voted
+12,Jackass,unknown@example.com,000-000-0000,Unknown Address,18/12/1990,Eligible,01/01/2023,Not Voted
+13,greta biya,unknown@example.com,000-000-0000,Unknown Address,12/11/1990,Eligible,01/01/2023,Not Voted
+14,Dumitru Nirca,unknown@example.com,000-000-0000,Unknown Address,01/12/2000,Eligible,01/01/2023,Voted
+15,Andrei Nirca,unknown@example.com,000-000-0000,Unknown Address,01/12/2000,Eligible,01/01/2023,Voted
+16,Dumitru,unknown@example.com,000-000-0000,Unknown Address,01/12/2000,Eligible,01/01/2023,Not Voted
+14,kevin kett,unknown@example.com,000-000-0000,Unknown Address,12/11/1990,Eligible,01/01/2023,Not Voted

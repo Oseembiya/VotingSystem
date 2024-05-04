@@ -1,0 +1,28 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- master
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- script: make -f Makefile all
+  displayName: 'Build Project'
+
+# - script: make -f Makefile test
+#   displayName: 'Run Tests'
+
+# - task: PublishTestResults@2
+#   inputs:
+#     testResultsFiles: '**/TEST-*.xml'
+#     testRunTitle: 'Unit Tests'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    pathtoPublish: 'Bin'  # Assuming build artifacts are in the 'Bin' directory
+    artifactName: 'MyBuildArtifacts'
+

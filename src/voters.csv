@@ -1,0 +1,12 @@
+ID,Name,Email,Phone,Address,Date_of_Birth,Eligibility,Registration_Date,Voting_Status
+1,Emily Davis,emily.davis@example.com,555-123-4567,123 Main St,05/12/1990,Eligible,01/01/2023,Not Voted
+2,Michael Johnson,michael.johnson@example.com,555-987-6543,456 Elm St,09/08/1985,Eligible,2/15/2023,Voted
+3,Jane Smith,jane.smith@example.com,555-246-8135,789 Oak Ave,12/03/1998,Ineligible,03/10/2023,Not Voted
+4,David Wilson,david.wilson@example.com,555-135-7924,321 Pine Rd,07/07/1992,Eligible,1/20/2023,Voted
+5,John Doe,john.doe@example.com,555-864-2097,654 Maple Ln,03/12/1988,Eligible,2/28/2023,Not Voted
+6,Sarah Thompson,sarah.thompson@example.com,555-192-8374,987 Cedar Blvd,11/07/1995,Eligible,03/05/2023,Voted
+7,Robert Anderson,robert.anderson@example.com,555-357-1596,741 Birch Ct,06/02/1982,Eligible,1/06/2023,Not Voted
+8,Jessica Wilson,jessica.wilson@example.com,555-753-9514,852 Walnut St,04/10/1994,Eligible,02/10/2023,Voted
+9,Christopher Martinez,christopher.martinez@example.com,555-951-7532,369 Spruce Ave,09/02/1991,Ineligible,3/20/2023,Not Voted
+10,Amanda Taylor,amanda.taylor@example.com,555-482-6031,159 Oak Ln,02/04/1997,Eligible,1/12/2023,Not Voted
+
