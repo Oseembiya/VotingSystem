@@ -1,8 +1,5 @@
 # VotingSystem
 
-- 1 Task Description
-The team is tasked with designing a Voting System following Scrum methodologies. Each team member is assigned specific roles:
-
 Team Leader (SCRUM Master): Responsible for guiding and coaching the Scrum team, removing impediments, and ensuring adherence to Scrum practices.
 Secretary: Assists the team leader with administrative tasks, focusing on organizational and administrative support.
 2x Developers: A cross-functional team responsible for delivering a potentially shippable product increment at the end of every Sprint. They collaborate closely and share accountability for the success of each Sprint.
