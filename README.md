@@ -34,6 +34,4 @@
 - run this command: ./myprogram
   
 # feature
-[Github ](https://github.com/Oseembiya/VotingSystem)
-
  
